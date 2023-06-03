@@ -5,6 +5,5 @@
 登录后可以进行用户信息管理、职位分类管理、发布公告、企业用户资质认证管理、职
 位审核、帖子管理以及留言管理。
 ## 功能层次图
-![功能层次图 图片](![9901f9b6f5e6f0adb596e15c32a30c3](https://github.com/Ricardo-xy/upgraded-enigma/assets/47131143/23f73c31-efd5-4c18-9343-58250f83028c)
-)
+![功能层次图](https://github.com/Ricardo-xy/upgraded-enigma/assets/47131143/23f73c31-efd5-4c18-9343-58250f83028c)
 
